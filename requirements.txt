@@ -1,2 +1,5 @@
 Flask
+python-binance
+Flask-Caching
+TA-Lib
 gunicorn
